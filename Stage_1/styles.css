@@ -1,0 +1,106 @@
+﻿.body {
+	padding: 20px 10px;
+	font-family: Helvetica;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1.4em;
+}
+
+.app {
+	background-color: #294860;
+	max-width: 250px;
+	border-radius: 10px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+.screenshot {
+	font-size: 20px;
+	line-height: 44px; 
+}
+
+.TOC {
+	background-color: #294860;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	text-align: left;
+	margin: 10px auto;
+}
+
+.TOC-concept {
+	background-color: #DFEAF1;
+	font-size: 18px;
+	text-align: left;
+	color: #294860;
+}
+	
+.TOC-contents {
+	background-color: #DFEAF1;
+	padding: 4px;
+	border-radius: 4px;
+	color: black;
+}
+
+.ol {
+	list-style-type: none; /* this removes the bullets that show up by default in unordered lists */
+}
+.margin-10px { 
+	margin: 10px; 
+}
+
+.h1 {
+	text-align: center;
+	color: #294860;
+}
+
+.p {
+	margin: 10px 0;
+}
+
+.ul {
+	list-style-type: none; /* this removes the bullets that show up by default in unordered lists */
+}
+
+.li {
+	font-size: 20px;
+	line-height: 44px; /* each line of text should occupy 44 pixels of height (good for mobile usage and fat fingers) */
+}
+
+.lesson {
+	background-color: #294860;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+.h2 {
+	margin: 10px;
+}
+
+.concept {
+	background-color: #DFEAF1;
+	padding: 4px;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept-title {
+	font-size: 28px;
+	text-align: center;
+	color: #294860;
+}
+
+.concept-description {
+	font-weight: lighter;
+}
+
+.code {
+	font-family: Arial;
+	color : black;
+	font-weight: bold;
+	padding-left:  4px;
+	padding-right: 4px;
+}
